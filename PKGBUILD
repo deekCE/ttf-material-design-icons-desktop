@@ -12,5 +12,5 @@ sha256sums=('c5c8a4a157f53a70a22716d80b7f4d2df5a2a0ee92773e405f7ca6f2572c7ad3'
 
 package() {
     install -Dm644 ${pkgname}-${pkgver}.ttf "${pkgdir}/usr/share/fonts/TTF/MaterialDesignIconsDesktop.ttf"
-    install -Dm645 ${pkgname}-${pkgver}-apache.txt "${pkgdir}/usr/share/licenses/$pkgname/LICENSE"
+    install -Dm644 ${pkgname}-${pkgver}-apache.txt "${pkgdir}/usr/share/licenses/$pkgname/LICENSE"
 }
