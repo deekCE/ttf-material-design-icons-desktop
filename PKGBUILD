@@ -1,7 +1,8 @@
+# Mantainer: Cesar "deekCE" Romero <deekce@gmail.com>
 pkgname=ttf-material-design-icons-desktop
 pkgver=7.0.96
-pkgrel=1
-pkgdesc="A community-made icon font based on Google's material design icons"
+pkgrel=2
+pkgdesc="A community-made icon font based on Google's material design icons guidelines"
 arch=('any')
 url='https://github.com/Templarian/MaterialDesign-Font'
 license=('Apache')
